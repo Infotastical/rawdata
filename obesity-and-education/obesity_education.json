@@ -1,0 +1,410 @@
+[
+  {
+    "Location": "Alabama",
+    "value": 33.5,
+    "hsgraduate": 85.3,
+    "bachelorgraduate": 24.5,
+    "advanceddegree": 9.1,
+    "code": "AL"
+  },
+  {
+    "Location": "Alaska",
+    "value": 29.7,
+    "hsgraduate": 92.4,
+    "bachelorgraduate": 29,
+    "advanceddegree": 10.4,
+    "code": "AK"
+  },
+  {
+    "Location": "Arizona",
+    "value": 28.9,
+    "hsgraduate": 86.5,
+    "bachelorgraduate": 28.4,
+    "advanceddegree": 10.7,
+    "code": "AZ"
+  },
+  {
+    "Location": "Arkansas",
+    "value": 35.9,
+    "hsgraduate": 85.6,
+    "bachelorgraduate": 22,
+    "advanceddegree": 7.9,
+    "code": "AR"
+  },
+  {
+    "Location": "California",
+    "value": 24.7,
+    "hsgraduate": 82.5,
+    "bachelorgraduate": 32.6,
+    "advanceddegree": 12.2,
+    "code": "CA"
+  },
+  {
+    "Location": "Colorado",
+    "value": 21.3,
+    "hsgraduate": 91.1,
+    "bachelorgraduate": 39.4,
+    "advanceddegree": 14.6,
+    "code": "CO"
+  },
+  {
+    "Location": "Connecticut",
+    "value": 26.3,
+    "hsgraduate": 90.2,
+    "bachelorgraduate": 38.4,
+    "advanceddegree": 17,
+    "code": "CT"
+  },
+  {
+    "Location": "Delaware",
+    "value": 30.7,
+    "hsgraduate": 89.3,
+    "bachelorgraduate": 31,
+    "advanceddegree": 12.9,
+    "code": "DE"
+  },
+  {
+    "Location": "District of Columbia",
+    "value": 21.7,
+    "hsgraduate": 90.3,
+    "bachelorgraduate": 56.6,
+    "advanceddegree": 32.8,
+    "code": "DC"
+  },
+  {
+    "Location": "Florida",
+    "value": 26.2,
+    "hsgraduate": 87.6,
+    "bachelorgraduate": 28.5,
+    "advanceddegree": 10.3,
+    "code": "FL"
+  },
+  {
+    "Location": "Georgia",
+    "value": 30.5,
+    "hsgraduate": 86.3,
+    "bachelorgraduate": 29.9,
+    "advanceddegree": 11.4,
+    "code": "GA"
+  },
+  {
+    "Location": "Hawaii",
+    "value": 22.1,
+    "hsgraduate": 91.6,
+    "bachelorgraduate": 32,
+    "advanceddegree": 10.8,
+    "code": "HI"
+  },
+  {
+    "Location": "Idaho",
+    "value": 28.9,
+    "hsgraduate": 90.2,
+    "bachelorgraduate": 26.8,
+    "advanceddegree": 8.5,
+    "code": "ID"
+  },
+  {
+    "Location": "Illinois",
+    "value": 29.3,
+    "hsgraduate": 88.6,
+    "bachelorgraduate": 33.4,
+    "advanceddegree": 13,
+    "code": "IL"
+  },
+  {
+    "Location": "Indiana",
+    "value": 32.7,
+    "hsgraduate": 88.3,
+    "bachelorgraduate": 25.3,
+    "advanceddegree": 9.2,
+    "code": "IN"
+  },
+  {
+    "Location": "Iowa",
+    "value": 30.9,
+    "hsgraduate": 91.8,
+    "bachelorgraduate": 27.7,
+    "advanceddegree": 9,
+    "code": "IA"
+  },
+  {
+    "Location": "Kansas",
+    "value": 31.3,
+    "hsgraduate": 90.5,
+    "bachelorgraduate": 32.3,
+    "advanceddegree": 11.7,
+    "code": "KS"
+  },
+  {
+    "Location": "Kentucky",
+    "value": 31.6,
+    "hsgraduate": 85.2,
+    "bachelorgraduate": 23.2,
+    "advanceddegree": 9.6,
+    "code": "KY"
+  },
+  {
+    "Location": "Louisiana",
+    "value": 34.9,
+    "hsgraduate": 84.3,
+    "bachelorgraduate": 23.4,
+    "advanceddegree": 8.1,
+    "code": "LA"
+  },
+  {
+    "Location": "Maine",
+    "value": 28.2,
+    "hsgraduate": 92.1,
+    "bachelorgraduate": 30.3,
+    "advanceddegree": 10.9,
+    "code": "ME"
+  },
+  {
+    "Location": "Maryland",
+    "value": 29.6,
+    "hsgraduate": 89.8,
+    "bachelorgraduate": 39,
+    "advanceddegree": 18,
+    "code": "MD"
+  },
+  {
+    "Location": "Massachusetts",
+    "value": 23.3,
+    "hsgraduate": 90.3,
+    "bachelorgraduate": 42.1,
+    "advanceddegree": 18.7,
+    "code": "MA"
+  },
+  {
+    "Location": "Michigan",
+    "value": 30.7,
+    "hsgraduate": 90.2,
+    "bachelorgraduate": 28.1,
+    "advanceddegree": 11,
+    "code": "MI"
+  },
+  {
+    "Location": "Minnesota",
+    "value": 27.6,
+    "hsgraduate": 92.8,
+    "bachelorgraduate": 34.8,
+    "advanceddegree": 11.8,
+    "code": "MN"
+  },
+  {
+    "Location": "Mississippi",
+    "value": 35.5,
+    "hsgraduate": 83.4,
+    "bachelorgraduate": 21.3,
+    "advanceddegree": 8,
+    "code": "MS"
+  },
+  {
+    "Location": "Missouri",
+    "value": 30.2,
+    "hsgraduate": 89.2,
+    "bachelorgraduate": 28.2,
+    "advanceddegree": 10.7,
+    "code": "MO"
+  },
+  {
+    "Location": "Montana",
+    "value": 26.4,
+    "hsgraduate": 93,
+    "bachelorgraduate": 30.7,
+    "advanceddegree": 10.1,
+    "code": "MT"
+  },
+  {
+    "Location": "Nebraska",
+    "value": 30.2,
+    "hsgraduate": 90.9,
+    "bachelorgraduate": 30.6,
+    "advanceddegree": 10.2,
+    "code": "NE"
+  },
+  {
+    "Location": "Nevada",
+    "value": 27.7,
+    "hsgraduate": 85.8,
+    "bachelorgraduate": 23.7,
+    "advanceddegree": 8.1,
+    "code": "NV"
+  },
+  {
+    "Location": "New Hampshire",
+    "value": 27.4,
+    "hsgraduate": 92.8,
+    "bachelorgraduate": 36,
+    "advanceddegree": 13.8,
+    "code": "NH"
+  },
+  {
+    "Location": "New Jersey",
+    "value": 26.9,
+    "hsgraduate": 89.2,
+    "bachelorgraduate": 38.1,
+    "advanceddegree": 14.7,
+    "code": "NJ"
+  },
+  {
+    "Location": "New Mexico",
+    "value": 28.4,
+    "hsgraduate": 85,
+    "bachelorgraduate": 26.9,
+    "advanceddegree": 11.8,
+    "code": "NM"
+  },
+  {
+    "Location": "New York",
+    "value": 27,
+    "hsgraduate": 86.1,
+    "bachelorgraduate": 35.3,
+    "advanceddegree": 15.4,
+    "code": "NY"
+  },
+  {
+    "Location": "North Carolina",
+    "value": 29.7,
+    "hsgraduate": 86.9,
+    "bachelorgraduate": 29.9,
+    "advanceddegree": 10.6,
+    "code": "NC"
+  },
+  {
+    "Location": "North Dakota",
+    "value": 32.2,
+    "hsgraduate": 92.3,
+    "bachelorgraduate": 28.9,
+    "advanceddegree": 7.8,
+    "code": "ND"
+  },
+  {
+    "Location": "Ohio",
+    "value": 32.6,
+    "hsgraduate": 89.8,
+    "bachelorgraduate": 27.2,
+    "advanceddegree": 10.2,
+    "code": "OH"
+  },
+  {
+    "Location": "Oklahoma",
+    "value": 33,
+    "hsgraduate": 87.5,
+    "bachelorgraduate": 24.8,
+    "advanceddegree": 8.3,
+    "code": "OK"
+  },
+  {
+    "Location": "Oregon",
+    "value": 27.9,
+    "hsgraduate": 90.2,
+    "bachelorgraduate": 32.3,
+    "advanceddegree": 12.2,
+    "code": "OR"
+  },
+  {
+    "Location": "Pennsylvania",
+    "value": 30.2,
+    "hsgraduate": 89.9,
+    "bachelorgraduate": 30.1,
+    "advanceddegree": 11.8,
+    "code": "PA"
+  },
+  {
+    "Location": "Rhode Island",
+    "value": 27,
+    "hsgraduate": 87.3,
+    "bachelorgraduate": 33,
+    "advanceddegree": 13.1,
+    "code": "RI"
+  },
+  {
+    "Location": "South Carolina",
+    "value": 32.1,
+    "hsgraduate": 86.5,
+    "bachelorgraduate": 27,
+    "advanceddegree": 9.8,
+    "code": "SC"
+  },
+  {
+    "Location": "South Dakota",
+    "value": 29.8,
+    "hsgraduate": 91.4,
+    "bachelorgraduate": 27.8,
+    "advanceddegree": 8.3,
+    "code": "SD"
+  },
+  {
+    "Location": "Tennessee",
+    "value": 31.2,
+    "hsgraduate": 86.5,
+    "bachelorgraduate": 26.1,
+    "advanceddegree": 9.6,
+    "code": "TN"
+  },
+  {
+    "Location": "Texas",
+    "value": 31.9,
+    "hsgraduate": 82.8,
+    "bachelorgraduate": 28.7,
+    "advanceddegree": 9.9,
+    "code": "TX"
+  },
+  {
+    "Location": "Utah",
+    "value": 25.7,
+    "hsgraduate": 91.8,
+    "bachelorgraduate": 32.5,
+    "advanceddegree": 11,
+    "code": "UT"
+  },
+  {
+    "Location": "Vermont",
+    "value": 24.8,
+    "hsgraduate": 92.3,
+    "bachelorgraduate": 36.8,
+    "advanceddegree": 15,
+    "code": "VT"
+  },
+  {
+    "Location": "Virginia",
+    "value": 28.5,
+    "hsgraduate": 89,
+    "bachelorgraduate": 37.6,
+    "advanceddegree": 16.1,
+    "code": "VA"
+  },
+  {
+    "Location": "Washington",
+    "value": 27.3,
+    "hsgraduate": 90.8,
+    "bachelorgraduate": 34.5,
+    "advanceddegree": 12.7,
+    "code": "WA"
+  },
+  {
+    "Location": "West Virginia",
+    "value": 35.7,
+    "hsgraduate": 85.9,
+    "bachelorgraduate": 19.9,
+    "advanceddegree": 7.9,
+    "code": "WV"
+  },
+  {
+    "Location": "Wisconsin",
+    "value": 31.2,
+    "hsgraduate": 91.7,
+    "bachelorgraduate": 29,
+    "advanceddegree": 9.9,
+    "code": "WI"
+  },
+  {
+    "Location": "Wyoming",
+    "value": 29.5,
+    "hsgraduate": 92.8,
+    "bachelorgraduate": 26.7,
+    "advanceddegree": 9.3,
+    "code": "WY"
+  }
+]
